@@ -175,7 +175,7 @@ footer {
 #publicidad,
 #contenido{
     width: 100%;
-height: 1200px;
+height: 1500px;
 }
 iframe{
     height: 600px;
@@ -184,5 +184,6 @@ iframe{
     grid-template-columns: repeat(1, auto);
 }
 }
+
 
 
